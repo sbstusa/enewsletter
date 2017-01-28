@@ -1,6 +1,8 @@
 # enewsletter
 Increasing subscription to the Military OneSource eNewsletter. 
 
+The OneSource eNewsletter is a Department of Defense (DOD)-funded program that provides comprehensive information on military life to service members and their families.
+
 # Design
 
 ## Treatment assignment process in order
