@@ -1,5 +1,5 @@
 # enewsletter
-An experiment to improve subscription to a life-enhancing newsletter
+Increasing subscription to the Military OneSource eNewsletter. 
 
 # Design
 
